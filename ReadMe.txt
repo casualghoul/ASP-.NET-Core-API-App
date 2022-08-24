@@ -1,6 +1,7 @@
-An API application that allows the user to perform CRUD operations to an in-memory database using HTTP requests
+An API application that allows the user to perform CRUD operations to an in-memory database using HTTP requests.
 
 EXAMPLE HTTP REQUESTS BELOW
+(Postman is a good application to test these with) - https://www.postman.com/
 -----------------------------------------
 
 // Student Requests
