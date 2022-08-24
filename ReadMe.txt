@@ -1,3 +1,8 @@
+An API application that allows the user to perform CRUD operations to an in-memory database using HTTP requests
+
+EXAMPLE HTTP REQUESTS BELOW
+-----------------------------------------
+
 // Student Requests
 
 GET http://localhost:57601/students
